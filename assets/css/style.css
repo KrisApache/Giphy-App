@@ -1,0 +1,60 @@
+body {
+    background-image: url("../images/background.png");
+    }
+
+.main-body{
+    /* width: 90%; */
+    align-self: center;
+    margin: auto;
+    margin-left: 30px;
+    margin-right: 30px;
+    /* padding-bottom: 10px; */
+    /* padding-top: 25px; */
+    /* height: auto;
+    min-height: 600px; */
+ 
+}
+
+.jumbotron-fluid{
+    height: auto;
+    min-height: 650px;
+    margin-top: 20px;
+   
+}
+
+#gif-body,#button-body{
+    background-color: lightseagreen;
+    background-image: url("../images/box.png");
+    /* opacity: 0.3; */
+    /* margin: 20px; */
+    vertical-align: center;
+}
+
+.rendered-button{
+    margin: 5px;
+}
+
+#gif-add{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.navbar-brand{
+    margin-left: 15%;
+    margin-right: 120px;
+    width: auto;
+
+}
+
+#movie-input{
+    width: 700px;
+}
+
+.title{
+    color: red;
+    font-size: 30px;
+    font-family: 'Shrikhand', cursive;
+    
+}
