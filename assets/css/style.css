@@ -58,3 +58,12 @@ body {
     font-family: 'Shrikhand', cursive;
     
 }
+
+.click-button-message{
+    text-align: center;
+    color: rgb(248, 96, 103);
+    font-size: 20px;
+    font-weight: bold;
+    background-color: lawngreen;
+    
+}

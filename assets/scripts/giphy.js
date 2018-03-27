@@ -1,7 +1,7 @@
 // S4PyxwvZJ4hFioQHRihr5SxhxTEvXhbG
 
 //// variables
-var topics = ["the dark knight", "inception", "tropic thunder", "avengers", "pulp fiction", "john rambo"];
+var topics = ["the dark knight", "inception", "tropic thunder", "avengers", "pulp fiction", "john rambo","tomb raider","goodfellas","jarhead","the prestige"];
 
 
 //// Events
