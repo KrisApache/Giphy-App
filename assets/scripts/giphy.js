@@ -76,6 +76,7 @@ $(document).on("click","#submit-btn", function(event) {
     var movie = $("#movie-input").val();
 
     topics.push(movie);
+    $("#movie-input").val("");
 
     console.log(topics);
 
